@@ -1,0 +1,29 @@
+{
+  "name": "k8s-qsr",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Ejez <ejez@protonmail.ch>",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@quasar/extras": "1.5.2",
+    "quasar": "1.9.3",
+    "@quasar/babel-preset-app": "1.1.9",
+    "compression": "^1.0.0",
+    "express": "^4.0.0",
+    "lru-cache": "5.1.1",
+    "vue": "2.6.11",
+    "vue-server-renderer": "2.6.11",
+    "vue-router": "3.1.5"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "quasar": {
+    "ssr": true
+  }
+}
