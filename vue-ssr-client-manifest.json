@@ -11,10 +11,10 @@
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.29b882f0.woff",
     "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.0509ab09.woff2",
     "img/quasar-logo-full.c3e88651.svg",
-    "js/3.3971778c.js",
+    "js/3.b8ee8e33.js",
     "js/4.9ece43d9.js",
     "js/app.d3a46c59.js",
-    "js/runtime.4b691f77.js",
+    "js/runtime.6f9ecc8e.js",
     "js/vendor.bdaa2ce7.js",
     "statics/app-logo-128x128.png",
     "statics/icons/apple-icon-120x120.png",
@@ -34,13 +34,13 @@
     "statics/icons/safari-pinned-tab.svg"
   ],
   "initial": [
-    "js/runtime.4b691f77.js",
+    "js/runtime.6f9ecc8e.js",
     "js/vendor.bdaa2ce7.js",
     "css/app.bdf76da4.css",
     "js/app.d3a46c59.js"
   ],
   "async": [
-    "js/3.3971778c.js",
+    "js/3.b8ee8e33.js",
     "js/4.9ece43d9.js"
   ],
   "modules": {
